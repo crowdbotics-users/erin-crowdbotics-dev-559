@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT erin_crowdbotics_dev_559.wsgi:application
